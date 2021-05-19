@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1621435226 source:c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+
+1621123023 c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\utn.h
+
+1621435169 c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1621433771 source:c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"color.h"
+
+1621434802 c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\color.h
+
+1621426562 source:c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1621425970 c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\fecha.h
+
+1621431563 source:c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"servicio.h"
+
+1621434967 c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\servicio.h
+
+1621433755 source:c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"tipo.h"
+
+1621434772 c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\tipo.h
+
+1621435572 source:c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+
+1621435609 c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\trabajo.h
+	"fecha.h"
+	"bicicleta.h"
+	"servicio.h"
+
+1621375403 source:c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1621435823 source:c:\users\note\desktop\primerparciaslabo\-zelarayan.emmanuel.pplabi\primerparciallaboi\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"trabajo.h"
+	"bicicleta.h"
+	"servicio.h"
+
